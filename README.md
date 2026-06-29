@@ -142,8 +142,8 @@ This project is open source and available under the [MIT License](LICENSE).
 **Thirumurugan B**
 
 - 📧 Contact via the form on the portfolio page
-- 🔗 GitHub: [@your-username](https://github.com/thirumurugan-1911)
-- 💼 LinkedIn: [your-linkedin]((https://www.linkedin.com/in/thirumurugan-b-302800380))
+- 🔗 GitHub: (https://github.com/thirumurugan-1911)
+- 💼 LinkedIn: ((https://www.linkedin.com/in/thirumurugan-b-302800380))
 
 ---
 
